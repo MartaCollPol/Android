@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question">Pregunta</string>
+    <string name="ok">Correctas</string>
+    <string name="notok">Incorrectas</string>
+    <string name="select">Selecciona una respuesta</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Acabar</string>
+    <string name="previous">Anterior</string>
+</resources>

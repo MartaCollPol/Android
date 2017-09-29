@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="question">Question</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="finish">Finish</string>
+
+
+    <array name="all_questions">
+       <item name="question1">Which is the capital of Catalonia ?;Girona;Lleida;Tarragona;*Barcelona</item>
+       <item name="question2">What grade do I deserve?;*10;9;8;7</item>
+    </array>
+
+    <string name="notok">Incorrects</string>
+    <string name="ok">Corrects</string>
+    <string name="select">Select one of the possible options</string>
+</resources>
